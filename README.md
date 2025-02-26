@@ -42,7 +42,7 @@ https://jlcpcb.com/RGE
 
 # **DISCLAIMER**
 
-# Use of these GERBER, BOM and CPL are at your own risk
+# Use of these GERBER are at your own risk
 
 Support my work and considder **buying  me a coffee**
 
