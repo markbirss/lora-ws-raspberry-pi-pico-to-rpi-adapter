@@ -1,5 +1,4 @@
-# Waveshare Raspberry Pi Pico to Raspberry Pi HAT Adapter
-Waveshare Raspberry Pi Pico to Raspberry Pi HAT Adapter
+# Waveshare Raspberry Pi Pico to Raspberry Pi HAT Adapter with TXCO
 
 adapter to convert a waveshare raspberry pi pico lora to a raspberry pi Hat
 
