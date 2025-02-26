@@ -8,6 +8,7 @@ The Raspberry Pi Pico LoRa has a SX1262 with TXCO whilst the other Waveshare SX1
 https://i.ibb.co/DVzkX8M/W20682-001.jpg
 
 lora-ws-raspberry-pi-pico-to-rpi-adapter.yaml
+```
 # https://www.waveshare.com/pico-lora-sx1262-868m.htm
 Lora:
   Module: sx1262  # Waveshare Raspberry Pi Pico to Raspberry Pi HAT Adapter
@@ -17,6 +18,16 @@ Lora:
   IRQ: 16
   Busy: 20
   Reset: 18
+```
+
+# **DISCLAIMER**
+
+# Use of these GERBER, BOM and CPL are at your own risk
+
+Support my work and considder **buying  me a coffee**
+
+https://buymeacoffee.com/mark.birss
+
 
   
 
