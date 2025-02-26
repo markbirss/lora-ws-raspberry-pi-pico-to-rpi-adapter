@@ -5,7 +5,12 @@ adapter to convert a waveshare raspberry pi pico lora to a raspberry pi Hat
 
 The Raspberry Pi Pico LoRa has a SX1262 with TXCO whilst the other Waveshare SX126X XXXM does not
 
-https://i.ibb.co/DVzkX8M/W20682-001.jpg
+Uses this
+![image](https://github.com/user-attachments/assets/ed21061a-646f-4507-8dd1-c7edfd3f9145)
+
+to adapt to this
+
+
 
 lora-ws-raspberry-pi-pico-to-rpi-adapter.yaml
 ```
