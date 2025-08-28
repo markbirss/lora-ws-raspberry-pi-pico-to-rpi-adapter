@@ -44,7 +44,7 @@ https://jlcpcb.com/RGE
 
 # Use of these GERBER are at your own risk
 
-Support my work and considder **buying  me a coffee**
+Support my work and consider **buying  me a coffee**
 
 https://buymeacoffee.com/mark.birss
 
